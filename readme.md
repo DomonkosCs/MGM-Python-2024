@@ -29,5 +29,12 @@ The structure of the JSON file is as follows:
 3. Data Projection:
     The function `project_to_map_frame` projects the polar scan data to the global map frame using the robot's pose.
 
-Created and captured by Domonkos Csuzdi, BME KJIT, <domonkos.csuzdi@edu.bme.hu>, 2024  
+## Installation
+
+1. Create a virtual environment (shown in the [presentation](bme_python_basics_2024.pdf))
+2. Source it in you terminal with `source .venv/bin/activate`
+3. Install dependencies via `pip3 install -r requirements.txt`
+
+---
+Created and captured by Domonkos Csuzdi, BME KJIT, <domonkos.csuzdi@edu.bme.hu>, 2024.  
 Educational purposes only.
